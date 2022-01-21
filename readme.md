@@ -1,6 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fedeuhr)](https://github.com/fedeuhr/github-readme-stats)
-
-<p align="center"><a href="https://fedeuhr.github.io"><img width="80%" src="./assets/gh-readme-header.png" /></a></p>
+(https://github-readme-stats.vercel.app/api?username=fedeuhr)](https://github.com/fedeuhr/github-readme-stats)
 
 <br />
 
