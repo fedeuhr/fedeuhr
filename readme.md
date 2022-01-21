@@ -31,11 +31,11 @@ Soy un desarrollador full stack junior responsable, proactivo y amante del traba
 #### Top Repositories
 
 
-<a href="https://github.com/fedeuhr/github-readme-stats">
-  <img align="center" src="https://github.com/fedeuhr/smartket" />
+<a href="https://github.com/fedeuhr/smartket">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fedeuhr&repo=smartket&theme=buefy" />
 </a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github.com/fedeuhr/traving-1.0" />
+<a href="https://github.com/fedeuhr/traving-1.0">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fedeuhr&repo=traving-1.0=buefy" />
 </a>
 
 <br />
