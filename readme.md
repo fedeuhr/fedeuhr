@@ -6,8 +6,6 @@ Soy un desarrollador full stack junior responsable, proactivo y amante del traba
 
 **Acerca de mí**
 
-- 💼 En búsqueda laboral!
-
 - 📈 Full stack -- Codo a Codo 2021 | Estudiante Ingeniería Informática (UNAJ)
 
 - 💬 Siempre me gustó desarrollar sitios webs (estáticas), pero descubrir la POO & Python me atrapó
