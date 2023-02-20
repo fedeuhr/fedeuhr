@@ -20,6 +20,7 @@ Soy un desarrollador Junior, que disfruta explorar nuevas herramientas y consoli
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Net](https://img.shields.io/badge/NET-311C87?.svg?style=for-the-badge&logo=net&logoColor=white)
 
 ### Bases de Datos
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
